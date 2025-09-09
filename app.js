@@ -1,1 +1,1 @@
-console.loh("Ejecutando el Sistema") 
+console.log("Ejecutando el sistema");
